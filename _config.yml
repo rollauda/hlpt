@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Spécialité HLP Philosophie
+description: Documents des leçons de spécialité HLP philosophie, classes de Première et de Terùinale. Rolland Auda, La Condamine, Quito, Équateur.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  essai: https://github.com/just-the-docs/just-the-docs-template
