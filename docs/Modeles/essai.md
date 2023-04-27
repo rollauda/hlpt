@@ -4,7 +4,7 @@ layout: default
 nav_order: 30
 has_children: false
 permalink: /Modeles/essai
-published: true
+published: false
 ---
 
 ![image](../assets/img/schema_conscience.svg)
@@ -55,6 +55,9 @@ A paragraph
 
 ## lien 
 [page](https://truc.com)
+
+→ ouvrir dans autre page :
+[page](https://truc.com){:target="_blank" }
 
 ## image
 ![on image](../../assets/img/caverne-harambat2.jpeg)

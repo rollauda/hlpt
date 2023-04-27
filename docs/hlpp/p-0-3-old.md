@@ -5,7 +5,7 @@ title: 3. Socrate
 parent: Introduction
 grand_parent: HLP Premières
 nav_order: 3
-published: true
+published: false
 ---
 
 ## 3. Socrate, le premier philosophe

@@ -6,7 +6,7 @@ url: https://rollauda.github.io
 repository: rollauda/hlp # for github-metadata
 
 aux_links:
-  essai: https://github.com/just-the-docs/just-the-docs-template
+  Cours-Auda: https://rollauda.github.io
 
 # Enable or disable heading anchors
 heading_anchors: true
