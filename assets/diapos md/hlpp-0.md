@@ -23,7 +23,7 @@ _backgroundColor: #708090
 _color: #F5FFFA
 -->
 
-## HLP philosopie  <!-- fit -->
+## HLP Philosophie  <!-- fit -->
 # Spécialité Première  <!-- fit -->
 # Introduction  <!-- fit -->
 
