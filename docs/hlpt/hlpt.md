@@ -1,15 +1,10 @@
 ---
-title: Titre = nom du dossier
+title: HLP Terminales
 layout: default
-nav_order: 21
-has_children: #true ou false
-published: false
+nav_order: 3
+has_children: true
+published: true
 ---
-# Titre Leçon
+# HLP Philosophie - Classe de Terminale
 
-|:-------------|:------------------|
-| Objectifs           | texte | 
-| Perspectives           | `texte` | 
-| Notions principales | `texte`   | 
-| Notions secondaires           | `texte`      | 
-| Repères           | `texte` | 
+```Présentation```
