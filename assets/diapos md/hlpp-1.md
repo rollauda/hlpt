@@ -17,11 +17,11 @@ style: |
 ---
 
 
-
 <!--
 _backgroundColor: #708090
 _color: #F5FFFA
 -->
+
 
 ## HLP philosophie   <!-- fit -->
 # Spécialité Première  <!-- fit -->
@@ -31,6 +31,12 @@ _color: #F5FFFA
 ## THÈME 1 : Les pouvoirs  de la parole   <!-- fit -->
 ## LEÇON 1 : Pourquoi parle-t-on ? <!-- fit -->
 
+<br>
+
+<br>
+
+*Diaporama : naviguer avec **← →***
+
 ---
 
 <!-- paginate: true -->
@@ -39,7 +45,7 @@ _color: #F5FFFA
 
 * **"ON"** ?
   * Qui ?
-  * Tous les animaux, où seulement mes êtres humains ?
+  * Tous les animaux, où seulement les êtres humains ?
 * **"PARLE"** ?
   * Qu'est-ce que parler ?
   * = Communiquer des informations, ou exprimer des idées ?
@@ -50,15 +56,17 @@ _color: #F5FFFA
 
 ---
 
+![bg left width:450px](../../assets/img/quiparle.png)
+
 ## 1. Qui parle ?
 
 <br>
 
-#### Les animaux parlent-ils, où l’être humain est-il le seul à en être capable ?
+**Les animaux parlent-ils, où l’être humain est-il le seul à en être capable ?**
 
 <br>
 
-#### Par exemple, le cri d’une souris ou le chant d’un oiseau est-il l’équivalent d’une parole humaine ? Peut-on parler de “langage” chez les animaux ?
+**Par exemple, le cri d’une souris ou le chant d’un oiseau est-il l’équivalent d’une parole humaine ? Peut-on parler de “langage” chez les animaux ?**
 
 ---
 
@@ -66,13 +74,25 @@ _color: #F5FFFA
 table {
   font-size: 22px;
 }
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 25%;
+}
+table th:nth-of-type(3) {
+    width: 25%;
+}
+table th:nth-of-type(4) {
+    width: 25%;
+}
 </style>
 
  ### 1.1. Quelques éléments de linguistique
 
-| Langage | Langue  | Voix | Parole |
+|<div style="width:160px">Langage</div>|<div style="width:160px">Langue</div>|<div style="width:160px">Voix</div>|<div style="width:160px">Parole</div>|
 |:-------------:|:------------:|:-------------:|:-------------:|
-| **Capacité à exprimer ses pensées à autrui à l'aide de signes (mots, gestes, etc.).** <br> Le langage est une faculté universelle, propre à tous les membres de l'espèce humaine.  | **Système de signes propre à une société** (ex: le Quechua) ou un groupe de personnes (ex: la Langue des signes). <br> <br> Si le langage est universel, il contient un très grand nombre de langues. | **Capacité physiologique à émettre des sons.**  <br> <br>  <br> <br>  <br>   Le larynx est l'organe de la parole : il contient les « cordes vocales » qui vibrent au passage de l'air et permettent d'articuler des sons.|  **Capacité à s’exprimer avec des mots.** <br> <br>  <br>  <br>  <br> On peut être sans voix  (ex: les muets) mais transcrire une parole à l’aide de signes où à l’écrit. | 
+| **Capacité à exprimer ses pensées à autrui à l'aide de signes (mots, gestes, etc.).** <br> <br>   <br> Le langage est une faculté universelle, propre à tous les membres de l'espèce humaine.  | **Système de signes propre à une société** <br>  <br>  (ex: le Quechua) ou un groupe de personnes (ex: la Langue des signes). <br>   <br> Le langage est universel, mais il contient un très grand nombre de langues. | **Capacité physiologique à émettre des sons.**  <br> <br> Le larynx est l'organe de la parole : il contient les *cordes vocales* qui vibrent au passage de l'air et permettent d'articuler des sons.|  **Capacité à s’exprimer avec des mots.** <br> <br>   <br>   <br>   <br>   <br>   On peut être sans voix  (ex: les muets) mais transcrire une parole à l’aide de signes où à l’écrit. | 
 
 ---
 
@@ -84,11 +104,11 @@ _backgroundColor: white
 
 #### Signifiant et signifié
 
-Le langage est constitué de `signes` (par exemple des mots) qui désignent des choses, et qui sont différents d’une langue à l’autre. 
+Le langage est constitué de `SIGNES` (par exemple des mots) qui désignent des choses, et qui sont différents d’une langue à l’autre. 
 
-Les `signes` ont des `référents`, la réalité qu’ils désignent.
+Les `SIGNES` ont des `RÉFÉRENTS`, la réalité qu’ils désignent.
 
-Le `signe` se décompose en une face matérielle, le `signifiant`, et une face mentale, le `signifié`.
+Le `SIGNE` se décompose en une face matérielle, le `SIGNIFIANT`, et une face mentale, le `SIGNIFIÉ`.
 
 ---
 <!--
@@ -96,11 +116,12 @@ _backgroundColor: white
 -->
 
 #### Explication
-1) Le signifiant est l'enveloppe matérielle du signe, par exemple le mot écrit, ou parlé grâce à la voix, ou exprimé en langue des signes : ARBRE.
-2) Le signifié est l’idée ou le concept d'arbre (l'arbre dans mon esprit).
-3) Le référent est l'arbre réel.
 
-![bg right width:400px](../../assets/img/signe-arbre.jpeg)
+1) Le `SIGNIFIANT` est l'enveloppe matérielle du signe, par exemple le mot écrit, ou parlé grâce à la voix, ou exprimé en langue des signes : ARBRE.
+2) Le `SIGNIFIÉ` est l’idée ou le concept d'arbre (l'arbre dans mon esprit).
+3) Le `RÉFÉRENT` est l'arbre réel.
+
+![bg right:45% width:400px](../../assets/img/signe-arbre.jpeg)
 
 ---
 <!--
@@ -128,26 +149,51 @@ _backgroundColor: white
 <br>
 
 * **Langage**
-  * Exprime une idée à l'aide de `signes`. Ex : une phrase, un poème
-  * Provoque une `réponse`. Ex : une conversation, une émotion.
+  * Exprime une idée à l'aide de `SIGNES`. Exemples : une phrase, un poème
+  * Provoque une `RÉPONSE`. Ex : une conversation, une émotion.
+  * **= DIALOGUE : émetteur → récepteur → émetteur, etc.**
 * **Communication**
-  * Transmet un `signal` : un cri, ou une publicité
-  * Provoque une `réaction`. Ex : de l'aide, un achat
+  * Transmet un `SIGNAL`. Ex : un cri, ou une publicité
+  * Provoque une `RÉACTION`. Ex : de l'aide, un achat
+  * **émetteur → réaction du récepteur**
 
 ---
+
 <!--
 _backgroundColor: black
 _color: #F5FFFA
 -->
 #### Extrait du documentaire “Les animaux pensent-ils ?”
 
+<br>
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/YQZPqvEJtEw?start=772" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
+<style scoped>
+table {
+  font-size: 25px;
+}
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 25%;
+}
+table th:nth-of-type(3) {
+    width: 25%;
+}
+table th:nth-of-type(4) {
+    width: 25%;
+}
+</style>
+
 ## 2. Pourquoi les êtres humains parlent-ils ?
 
-**Exercice évalué : Lire les quatre textes de la fich-leçon et répondre aux questions suivantes :**
+#### *Quelle est la fonction principale du langage ?*
+
+```Exercice évalué : Lire les quatre textes de la fiche-leçon et répondre aux deux questions suivantes :```
 1. Pourquoi les êtres humains parlent-ils ? Après avoir étudié au brouillon les 4 textes, reproduire et remplir ce tableau de synthèse en résumant chaque thèse en une phrase.
 
  | |  |
@@ -159,15 +205,31 @@ _color: #F5FFFA
 
 ---
 
+<style scoped>
+table {
+  font-size: 27px;
+}
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 25%;
+}
+table th:nth-of-type(3) {
+    width: 25%;
+}
+table th:nth-of-type(4) {
+    width: 25%;
+}
+</style>
+
 2. Selon vous, lesquels de ces 4 philosophes considèrent que seuls les êtres humains parlent ? Lequel pense le contraire ? Justifiez votre réponse.
 
 
  | Utilisez la structure ci-dessous| 
-|:-------------:|
+|:-------------|
  | A, B et C pensent que seul l'être humain parle. 
-A affirme en effet que…  etc.
-B, de son côté, pense que… etc.
-Enfin, C montre que… etc.
+  A affirme en effet que…  etc.  <br> B, de son côté, pense que… etc.  <br> Enfin, C montre que… etc.
 D pense que les animaux sont eux aussi capables de parler. 
 Il explique que…  etc. | 
 

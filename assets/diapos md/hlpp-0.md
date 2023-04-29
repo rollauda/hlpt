@@ -27,6 +27,12 @@ _color: #F5FFFA
 # Spécialité Première  <!-- fit -->
 # Introduction  <!-- fit -->
 
+<br>
+
+<br>
+
+*Diaporama : naviguer avec **← →***
+
 ---
 
 <!-- paginate: true -->
@@ -36,20 +42,20 @@ _color: #F5FFFA
 
 
 
-#### Thème 1 : Les pouvoirs de la parole 
+* **THÈME 1 : LES POUVOIRS DE LA PAROLE**
 *Période : Antiquité, Moyen-âge*  
 
 
-1) **Axe n°1** : L’art de la parole
-2) **Axe n°2** : L’autorité de la parole
-3) **Axe n°3** : Les séductions de la parole
+  * **Axe n°1** : L’art de la parole
+  * **Axe n°2** : L’autorité de la parole
+  * **Axe n°3** : Les séductions de la parole
 
-#### Thème 2 : Les représentations du monde
+* **THÈME 2 : LES REPRÉSENTATIONS DU MONDE**
 *Période : Renaissance, Lumières*  
 
-1) **Axe n°1** : Découverte du monde et rencontre des cultures
-2) **Axe n°2** : Décrire, figurer, imaginer
-3) **Axe n°3** : L’homme et l’animal
+  * **Axe n°1** : Découverte du monde et rencontre des cultures
+  * **Axe n°2** : Décrire, figurer, imaginer
+  * **Axe n°3** : L’homme et l’animal
 
 ---
 ## 2. Qu’est-ce que la philosophie ? 
@@ -69,7 +75,7 @@ _color: #F5FFFA
 ---
 
 #### 2.2. La naissance de la philosophie en Grèce
-[→ Fiche "Philosophie, Sophistique et rhétorique](https://github.com/rollauda/hlp/blob/main/assets/pdf/Philosophie_rh%C3%A9torique.pdf)
+[→ Fiche "Philosophie, sophistique et rhétorique](https://github.com/rollauda/hlp/blob/main/assets/pdf/Philosophie_rh%C3%A9torique.pdf)
 
 
 ![width:800px](../../assets/img/agora.jpeg)
