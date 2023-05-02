@@ -8,7 +8,7 @@ repository: rollauda/hlp # for github-metadata
 aux_links:
   HLP Premières: https://rollauda.github.io/hlp/docs/hlpp/hlpp.html
   HLP Terminales: https://rollauda.github.io/hlp/docs/hlpt/hlpt.html
-  Cours-Auda: https://rollauda.github.io
+  Accueil-Auda: https://rollauda.github.io
   Diaporamas: https://rollauda.github.io/diaporamas
   Schémas: https://rollauda.github.io/schemas
 
