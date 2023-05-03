@@ -2,7 +2,7 @@
 title: markmap
 layout: default
 nav_order: 35
-published: true
+published: false
 ---
 ## sans le plugin vscodium
 Pour intégrer une carte mentale dynamique dans un site statique Jekyll avec le thème Just the Docs, vous pouvez utiliser la bibliothèque Markmap. Voici les étapes à suivre :

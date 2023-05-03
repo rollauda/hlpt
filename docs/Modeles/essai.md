@@ -56,18 +56,25 @@ A paragraph
 ## lien 
 [page](https://truc.com)
 
-→ ouvrir dans autre page :
-[page](https://truc.com){:target="_blank" }
-
 ## image
 ![on image](../../assets/img/caverne-harambat2.jpeg)
 
+**taille limitée**
+
+<img src="../../assets/img/caverne-harambat2.jpeg"  width="75%">
+
 ## Embed pdf
 
-{% pdf "../../assets/pdf/presentation.pdf" no_link %}
+{% pdf "../assets/pdf/presentation.pdf" no_link %}
 
 **Taille limitée:**  
-{% pdf "../../assets/pdf/Philosophie_rhétorique.pdf" width=75% height=600px no_link %}
+
+{% pdf "../assets/pdf/presentation.pdf" width=80% height=600px no_link %}
+
+## video local
+
+<video src="../../assets/vid/inherit.mp4" controls="controls" style="max-width: 730px;">
+
 
 ## Video youtube
 
@@ -85,3 +92,10 @@ A paragraph
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+## embed markmap
+
+<iframe src="../assets/html/schema_conscience.html" width="100%" height="600px" frameborder="0"></iframe>
+
+<iframe src="../../assets/cartes/carte1.html" width="100%" height="600px" frameborder="0"></iframe>
+
