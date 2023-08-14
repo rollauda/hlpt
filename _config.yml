@@ -1,13 +1,11 @@
 title: Spé HLP Philo
 description: Documents des leçons de spécialité HLP philosophie, classes de Première et de Terùinale. Rolland Auda, La Condamine, Quito, Équateur.
 theme: just-the-docs
-baseurl: "/hlp" # the subpath of your site, e.g. /blog
+baseurl: "/hlpt" # the subpath of your site, e.g. /blog
 url: https://rollauda.github.io
-repository: rollauda/hlp # for github-metadata
+repository: rollauda/hlpt # for github-metadata
 
 aux_links:
-  HLP Premières: https://rollauda.github.io/hlp/docs/hlpp/hlpp.html
-  HLP Terminales: https://rollauda.github.io/hlp/docs/hlpt/hlpt.html
   Accueil-Auda: https://rollauda.github.io
   Diaporamas: https://rollauda.github.io/diaporamas
   Schémas: https://rollauda.github.io/schemas
