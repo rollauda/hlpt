@@ -7,4 +7,4 @@ nav_order: 1
 published: true
 ---
 
-{% pdf "../../assets/pdf/presentation/presentation.pdf" width=80% height=750px no_link %}
+{% pdf "../../assets/pdf/presentation/presentation.pdf" width=100% height=750px no_link %}

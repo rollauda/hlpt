@@ -7,4 +7,4 @@ grand_parent: Présentation HLP
 nav_order: 2
 published: true
 ---
-{% pdf "../../assets/pdf/presentation/reflexion.pdf" width=80% height=750px no_link %}
+{% pdf "../../assets/pdf/presentation/reflexion.pdf" width=100% height=750px no_link %}
