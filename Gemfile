@@ -8,5 +8,7 @@ gem "just-the-docs", "0.5.0" # pinned to the current release
 
 group :jekyll_plugins do
     gem "jekyll-pdf-embed"
+    gem 'jemoji'
   end
 
+  
