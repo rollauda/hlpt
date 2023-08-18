@@ -5,7 +5,7 @@ nav_order: 15
 has_children: false
 published: true
 ---
-## Cahier de texte 
+## Cahier de texte Terminale HLP philo 
 
 | Semaine     | Contenu     | Travaux |
 | :------------------- | :-------------- | :-------- |
