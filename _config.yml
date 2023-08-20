@@ -37,7 +37,7 @@ callouts:
     title: Note
     color: purple
   attention:
-    title: Warning
+    title: Attention
     color: red
   gris:
     title: gris
