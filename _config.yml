@@ -6,7 +6,8 @@ url: https://rollauda.github.io
 repository: rollauda/hlpt # for github-metadata
 
 aux_links:
-    Accueil-Auda: https://rollauda.github.io
+  La roue: https://rollauda.github.io/roue/
+  Accueil-Auda: https://rollauda.github.io
 
 # Enable or disable heading anchors
 heading_anchors: true
