@@ -11,8 +11,8 @@ published: true
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
 | 01/09  | [Présentation de l'année](../0_pre/presentation.html) | ...     | ...     |
-| 04/09   | ...     | ...     | ...     |
-| 11/09   | ...     | ...     | ...     |
+| 04/09   | [Semestre 1 – Introduction](../S1L0/S1L0.html) 1.    | S1 : La recherche de soi     | ...     |
+| 11/09   | [Semestre 1 – Introduction](../S1L0/S1L0.html) 2.    | S1 : La recherche de soi     | [Oral : préparation <br> devoir type bac](../S1L0/S1L0-3.html)     |
 | 18/09   | ...     | ...     | ...     |
 | 25/09   | ...     | ...     | ...     |
 | 02/10   | ...     | ...     | ...     |
