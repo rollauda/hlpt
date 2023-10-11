@@ -15,12 +15,12 @@ published: true
 
 ## Rôles, tâches
 
-| Émission n°1 | Qui es-tu ? |     
+| **Émission n°1** | **Qui es-tu ?** |     
 | Spécialité | HLP | 
 | Dates | Du 11/10 au 10/11 |   
 | **Rôles, tâches** | **Élèves** |
-| Chefs de rédaction | Amélie |
-| Réalisateur de l'émission | Emily, Julian |
+| Rédactrice en chef | Amélie |
+| Réalisateurs de l'émission | Emily, Julian |
 | Ingénieurs du son | Astrid, Daniela |
 | Écrivains | Briana et Elise : textes de la présentatrice <br> Daniela et Astrid : sketch introductif <br> Joaquin et Julian : questions de l'interview <br> Définition du mot identité : Emilia <br> Questionnaire du micro-trottoir : Amélie, Emily et Salomé |
 | Lecteurs | Présentatrice : Amélie <br> Actrices du sketch : Daniela, Astrid <br> Interviewers Julian, Joaquin, Emilia <br> définition identité : Salomé, Emily |
