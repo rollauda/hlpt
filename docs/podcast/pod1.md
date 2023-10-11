@@ -23,12 +23,12 @@ published: true
 | Réalisateurs de l'émission | Emily, Julian |
 | Ingénieurs du son | Astrid, Daniela |
 | Écrivains | Briana et Elise : textes de la présentatrice <br> Daniela et Astrid : sketch introductif <br> Joaquin et Julian : questions de l'interview <br> Définition du mot identité : Emilia <br> Questionnaire du micro-trottoir : Amélie, Emily et Salomé |
-| Lecteurs | Présentatrice : Amélie <br> Actrices du sketch : Daniela, Astrid <br> Interviewers Julian, Joaquin, Emilia <br> définition identité : Salomé, Emily |
-| Monteurs | Emilia |
+| Lecteurs | Présentatrice : Amélie <br> Actrices du sketch : Daniela, Astrid <br> Interviewers : Julian, Joaquin, Emilia <br> Définition identité : Salomé, Emily |
+| Monteur | Emilia |
 
 ## Conducteur de l'émission
 
-| n | contenu | durée | 
+| **n° de rubrique** | **contenu** | **durée** | 
 | 0 | Générique | 15 s | 
 | 1 | Sketch | 1 mn | 
 | 2 | Présentation | 30 s - 1 mn | 
@@ -41,7 +41,7 @@ published: true
 ## Planning
 
 - 16 au 20/10 : enregistrement micro-trottoirs
-- Vacances : finaluisation des textes
+- Vacances : finalisation des textes
 - 06 au 10/11 : enregistrement de l'interview du philosophe et de l'émission, montage
 
 
