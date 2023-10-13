@@ -12,6 +12,7 @@ published: true
 > PREMIÈRE ÉMISSION : QUI ES-TU ? 
 >
 > - **11/10 : conférence de rédaction philosophie**. Partage des tâches, réalisation du conducteur, début d'écriture.
+> - **18/10 : enregistrement des micro-trottoirs**
 
 ## Rôles, tâches
 
