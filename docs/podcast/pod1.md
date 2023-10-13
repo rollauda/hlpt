@@ -17,7 +17,7 @@ published: true
 
 | **Émission n°1** | **Qui es-tu ?** |     
 | Spécialité | HLP | 
-| Dates | Du 11/10 au 10/11 |   
+| Dates | Du 11/10 au 20/11 |   
 | **Rôles, tâches** | **Élèves** |
 | Rédactrice en chef | Amélie |
 | Réalisateurs de l'émission | Emily, Julian |
@@ -42,7 +42,7 @@ published: true
 
 - 16 au 20/10 : enregistrement micro-trottoirs
 - Vacances : finalisation des textes
-- 06 au 10/11 : enregistrement de l'interview du philosophe et de l'émission, montage
+- 13 au 20/11 : enregistrement de l'interview du philosophe et de l'émission, montage
 
 
 
