@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Émission 1
+title: Émission 1 HLP
 parent: Podcast
 has_children: false
 nav_order: 2
@@ -35,8 +35,8 @@ published: true
 | 3 | Micro-trottoir | 3 mn | 
 | 4 | Présentation | 30 s |
 | 5 | Entretien avec un philosophe | 4 mn | 
-| 4 | Présentation | 30 s |
-| 6 | Définition : l'identité | 2 mn | 
+| 6 | Présentation | 30 s |
+| 7 | Définition : l'identité | 2 mn | 
 
 ## Planning
 
