@@ -6,10 +6,10 @@ has_children: false
 nav_order: 2
 published: true
 ---
-## Émission n°1 : Qui es-tu ?
+# Émission n°1 : Qui es-tu ?
 
 {: .note-title }
-> PREMIÈRE ÉMISSION : QUI ES-TU ? 
+> PLANNING 
 >
 > - **11/10 : conférence de rédaction philosophie**. Partage des tâches, réalisation du conducteur, début d'écriture.
 > - **18/10 : enregistrement des micro-trottoirs**
@@ -18,7 +18,7 @@ published: true
 >> - Briana et Élise et M. Auda : élèves du primaire (CM1-CM2)
 >> - Salomé et Emily : professeurs
 >> - Joaquin et Julian : personnels administratifs et d'entretien
-> - **13/11 au 20/11 : enregistrement et montage de l'émssion**
+> - **13/11 au 20/11 : enregistrement et montage de l'émission**
 
 ## Rôles, tâches
 
@@ -45,11 +45,7 @@ published: true
 | 6 | Présentation | 30 s |
 | 7 | Définition : l'identité | 2 mn | 
 
-## Planning
 
-- 16 au 20/10 : enregistrement micro-trottoirs
-- Vacances : finalisation des textes
-- 13 au 20/11 : enregistrement de l'interview du philosophe et de l'émission, montage
 
 
 
