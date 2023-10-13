@@ -16,7 +16,7 @@ published: true
 | 18/09   | - [S1 Leçon 1](../S1L1/S1L1-0-0.html)  <br> - Conférence sur Jorge Carrera Andrade    | Métamorphoses du Moi     | ...     |
 | 25/09   | - [S1 Leçon 1](../S1L1/S1L1-0-0.html)  <br> - Évaluations orales  | Métamorphoses du Moi     | ...     |
 | 02/10   | - [S1 Leçon 1](../S1L1/S1L1-0-0.html)   <br> - Évaluations orales     | Métamorphoses du Moi     | ...     |
-| 09/10   | - [Podcast](../podcast/pod0.html) : [émission n°1](../podcast/pod1.html) <br> - [S1 Leçon 1](../S1L1/S1L1-0-0.html)      | *Grand Oral* <br> Métamorphoses du Moi      | ...     |
+| 09/10   | - [Podcast](../podcast/pod0.html) : [émission n°1](../podcast/pod1.html) : conférence de rédaction <br> - [S1 Leçon 1](../S1L1/S1L1-0-0.html)      | *Grand Oral* <br> Métamorphoses du Moi      | ...     |
 | 16/10   | - [Podcast, émission n°1](../podcast/pod1.html) : enregistrements micro-trottoirs <br> - [S1 Leçon 1](../S1L1/S1L1-0-0.html)  | *Grand Oral* <br> Métamorphoses du Moi      | ...     |
 | Vacances d'automne | ---------  | ---------  | ...     |
 
