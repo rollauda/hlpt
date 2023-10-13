@@ -18,6 +18,7 @@ published: true
 >> - Briana et Élise et M. Auda : élèves du primaire (CM1-CM2)
 >> - Salomé et Emily : professeurs
 >> - Joaquin et Julian : personnels administratifs et d'entretien
+> - **13/11 au 20/11 : enregistrement et montage de l'émssion**
 
 ## Rôles, tâches
 
