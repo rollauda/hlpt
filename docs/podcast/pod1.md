@@ -14,11 +14,13 @@ published: true
 > - **11/10 : conférence de rédaction philosophie**. Partage des tâches, réalisation du conducteur, début d'écriture.
 > - **18/10 : enregistrement des micro-trottoirs**
 >> - Astrid et Daniela : élèves du lycée
->> - Emiia et Amélie : élèves du collège
+>> - Emilia et Amélie : élèves du collège
 >> - Briana et Élise et M. Auda : élèves du primaire (CM1-CM2)
 >> - Salomé et Emily : professeurs
 >> - Joaquin et Julian : personnels administratifs et d'entretien
-> - **13/11 au 20/11 : enregistrement et montage de l'émission**
+> - **10/11 au 20/11 : enregistrement et montage de l'émission**
+>> - Vendredi 10/11 : interview de Stéphane Vignolo
+>> - Mercredi 15/11 : enregistrement de l'émission
 
 ## Rôles, tâches
 
