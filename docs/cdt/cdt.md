@@ -10,7 +10,8 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-|  06/11  |  - Bac Blanc <br> - [Leçon 2](../S1L2/S1L2-0-0.html) | Expressions de la sensibilité | ... |
+|  13/11  |  [S1 Leçon 2](../S1L2/S1L2-0-0.html) | Expressions de la sensibilité | ... |
+|  06/11  |  - Bac Blanc <br> - [S1 Leçon 1](../S1L1/S1L1-0-0.html)  | Métamorphoses du Moi | ... |
 | Vacances d'automne | ---------  | ---------  | Réviser les leçons depuis le début de l'année + la méthode (questions d'interprétation et de réflexion)     |
 | 16/10   | - [Podcast, émission n°1](../podcast/pod1.html) : enregistrements micro-trottoirs <br> - [S1 Leçon 1](../S1L1/S1L1-0-0.html)  | *Grand Oral* <br> Métamorphoses du Moi      | ...     |
 | 09/10   | - [Podcast](../podcast/pod0.html) : [émission n°1](../podcast/pod1.html) : conférence de rédaction <br> - [S1 Leçon 1](../S1L1/S1L1-0-0.html)      | *Grand Oral* <br> Métamorphoses du Moi      | ...     |

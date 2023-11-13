@@ -18,9 +18,11 @@ published: true
 >> - Briana et Élise et M. Auda : élèves du primaire (CM1-CM2)
 >> - Salomé et Emily : professeurs
 >> - Joaquin et Julian : personnels administratifs et d'entretien
-> - **10/11 au 20/11 : enregistrement et montage de l'émission**
->> - Vendredi 10/11 : interview de Stéphane Vignolo
->> - Mercredi 15/11 : enregistrement de l'émission
+> - **22/11 au 01/12 : enregistrement et montage de l'émission**
+>> - Mercredi 22/11 : enregistrement de l'émission
+>> - Vendredi 24/11 : interview de Stéphane Vinolo
+>> - Semaine suivante : montage de l'émission
+
 
 ## Rôles, tâches
 
