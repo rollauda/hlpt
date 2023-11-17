@@ -39,15 +39,15 @@ published: true
 
 ## Conducteur de l'émission
 
-| **n° de rubrique** | **contenu** | **durée** | 
-| 0 | Générique | 15 s | 
-| 1 | Sketch | 1 mn | 
-| 2 | Présentation | 30 s - 1 mn | 
-| 3 | Micro-trottoir | 3 mn | 
-| 4 | Présentation | 30 s |
-| 5 | Entretien avec un philosophe | 4 mn | 
-| 6 | Présentation | 30 s |
-| 7 | Définition : l'identité | 2 mn | 
+| **n° de rubrique** | **contenu** | **durée** | **Lecteurs****
+| 1 | Sketch | 1 mn |  Daniela et Astrid  |
+| 2 | Présentation | 30 s - 1 mn | Briana et Elise   |
+| 3 | Micro-trottoir | 3 mn |  montage de Daniela  |
+| 4 | Transition | 30 s |  Briana et Elise  |
+| 5 | Entretien avec un philosophe | 4 mn | Joaquin et Julian   |
+| 6 | Transition | 30 s |  Briana et Elise  |
+| 7 | Définition : l'identité | 2 mn | Salomé et Emily  |
+| 8  | Générique de fin  |  30 s |  Amélie |
 
 
 
