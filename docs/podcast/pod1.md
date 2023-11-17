@@ -39,7 +39,7 @@ published: true
 
 ## Conducteur de l'émission
 
-| **n° de rubrique** | **contenu** | **durée** | **Lecteurs****
+| **n° de rubrique** | **contenu** | **durée** | **Lecteurs** |
 | 1 | Sketch | 1 mn |  Daniela et Astrid  |
 | 2 | Présentation | 30 s - 1 mn | Briana et Elise   |
 | 3 | Micro-trottoir | 3 mn |  montage de Daniela  |
