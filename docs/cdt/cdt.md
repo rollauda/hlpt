@@ -10,7 +10,10 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-|  27/11  |  [S1 Leçon 2](../S1L2/S1L2-0-0.html) | Expressions de la sensibilité | [Évaluation](../S1L2/S1L2-3.html#activité-évaluée) |
+|  18/12  | - [S1 Leçon 3](../S1L3/S1L3-0-0.html) | Expressions de la sensibilité | [Préparer le colloque philosophique sur la pitié](../S1L3/S1L3-3.html#exercice-oral-évalué) |
+|  11/12  | - [S1 Leçon 3](../S1L3/S1L3-0-0.html) | Expressions de la sensibilité | ... |
+|  04/12  | - [S1 Leçon 2](../S1L2/S1L2-0-0.html)  | Expressions de la sensibilité | [Évaluation](../S1L2/S1L2-3.html#activité-évaluée) |
+|  27/11  | - [S1 Leçon 2](../S1L2/S1L2-0-0.html) <br> - [Enregistrement d'une discussion philosophique : doit-on avoir pitié ?](../S1L3/S1L3-0-2.html) | Expressions de la sensibilité | --- |
 |  20/11  | - [S1 Leçon 2](../S1L2/S1L2-0-0.html) <br> - [Podcast, émission n°1](../podcast/pod1.html) : enregistrement de l'émission | Expressions de la sensibilité | ... |
 |  13/11  |  [S1 Leçon 2](../S1L2/S1L2-0-0.html) | Expressions de la sensibilité | Écriture des textes du podcast |
 |  06/11  |  - Bac Blanc <br> - [S1 Leçon 1](../S1L1/S1L1-0-0.html)  | Métamorphoses du Moi | ... |
