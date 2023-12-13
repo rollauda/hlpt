@@ -2,7 +2,7 @@
 layout: default
 title: Émission 1 HLP
 parent: Podcast
-has_children: false
+has_children: true
 nav_order: 2
 published: true
 ---
