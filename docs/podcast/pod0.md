@@ -9,6 +9,11 @@ published: true
 
 ## Démarche
 
+{: .highlight }
+>**Les PH.S.E.S qui pensent :**  
+>- **PH** comme Philosophie  
+>- **S.E.S** comme Sciences Économiques et Sociales
+
 {: .nouveau-title }
 > Étapes de la réalisation de chaque podcast : 
 >
@@ -20,8 +25,8 @@ published: true
 {: .important-title }
 > Différents rôles / tâches (on tourne d'une émission à l'autre) : 
 >
-> - **Designers sonore** : créent le jingle et les virgules sonores (un seul pour toutes les émissions). (**Daniela (HLP) et ?**) 
-> - **Designers visuel** : créent le visuel du podcast  (un seul pour toutes les émissions). (**Daniela (HLP) et Isaïa (SES)**)
+> - **Designers sonore** : créent le générique (un seul pour toutes les émissions) et les virgules sonores . (**Daniela (HLP)**) 
+> - **Designers visuel** : créent le visuel du podcast  (un seul pour toutes les émissions). (**Daniela (HLP)**)
 > - **Rédacteurs en chef** : dirigent la conférence de rédaction, gèrent le partage des rôles / tâches
 > - **Réalisateur de l'émission (+ assistant)** : suit le conducteur et surveille le bon déroulement de l'émission, vérifie le bon enregistrement sur les enregistreurs numériques
 > - **Ingénieurs du son** : gèrent l'enregistrement 
