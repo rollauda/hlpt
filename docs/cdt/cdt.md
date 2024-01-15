@@ -10,7 +10,10 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-|  18/12  | - [S1 Leçon 3](../S1L3/S1L3-0-0.html) | Expressions de la sensibilité | [Préparer le colloque philosophique sur la pitié](../S1L3/S1L3-3.html#exercice-oral-évalué) |
+| 22/01   |  - Suite de la préparation de la nuit des idées (transhumanisme) <br> - [S1 Leçon 3](../S1L3/S1L3-0-0.html) | Métamorphoses du moi / Education, transmission et émancipation / L'humain et ses limites / Expressions de la sensibilité      | ...     |
+| 15/01   | - Professeur absent <br> - Préparation de la nuit des idées avec Stéphane Vinolo en distanciel (transhumanisme)  | Métamorphoses du moi / Education, transmission et émancipation / L'humain et ses limites     | ...     |
+| 08/01   | Professeur absent  | ...     | ...     |
+|  18/12  | - [S1 Leçon 3](../S1L3/S1L3-0-0.html) | Expressions de la sensibilité | ... |
 |  11/12  | - [S1 Leçon 3](../S1L3/S1L3-0-0.html) | Expressions de la sensibilité | ... |
 |  04/12  | - [S1 Leçon 2](../S1L2/S1L2-0-0.html)  | Expressions de la sensibilité | [Évaluation](../S1L2/S1L2-3.html#activité-évaluée) |
 |  27/11  | - [S1 Leçon 2](../S1L2/S1L2-0-0.html) <br> - [Enregistrement d'une discussion philosophique : doit-on avoir pitié ?](../S1L3/S1L3-0-2.html) | Expressions de la sensibilité | --- |
