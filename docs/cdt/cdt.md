@@ -10,6 +10,7 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
+| 29/01   |   - [S1 Leçon 3 : colloque des philosophes](../S1L3/S1L3-0-0.html) | Expressions de la sensibilité      | ...     |
 | 22/01   |  - Suite de la préparation de la nuit des idées (transhumanisme) <br> - [S1 Leçon 3](../S1L3/S1L3-0-0.html) | Métamorphoses du moi / Education, transmission et émancipation / L'humain et ses limites / Expressions de la sensibilité      | ...     |
 | 15/01   | - Professeur absent <br> - Préparation de la nuit des idées avec Stéphane Vinolo en distanciel (transhumanisme)  | Métamorphoses du moi / Education, transmission et émancipation / L'humain et ses limites     | ...     |
 | 08/01   | Professeur absent  | ...     | ...     |
