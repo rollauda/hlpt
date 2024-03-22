@@ -10,7 +10,8 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-| 18/03 | [S2 Leçon 5](../S1L5/S1L5-0-0.html)  | Histoire et violence  | ...  |
+| 25/03 | [S2 Leçon 5](../S1L5/S1L5-0-0.html)  | Histoire et violence  | ...  |
+| 18/03 | - [S2 Leçon 5](../S1L5/S1L5-0-0.html) <br> - Scénettes sur la liberté par les CM1-CM2  | Histoire et violence  | ...  |
 | 11/03 | [S2 Leçon 5](../S1L5/S1L5-0-0.html)  | Histoire et violence  | ...  |
 | 04/03 | - Corrigé du dS <br> - "Ceux qui partent d'Omelas"  | ...  | ...  |
 | Vacances d'hiver | ---------  | ---------  | ---------  |
