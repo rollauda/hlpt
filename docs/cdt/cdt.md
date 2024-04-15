@@ -10,7 +10,10 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-| 25/03 | [S2 Leçon 5](../S1L5/S1L5-0-0.html)  | Histoire et violence  | ...  |
+| 15/04 | - [S2 Leçon 7](../S1L7/S1L7-0-0.html) <br> - Préparation grand Oral  | L'humain et ses limites  | ...  |
+| 08/04 | - [S2 Leçon 6](../S1L6/S1L6-0-0.html) <br> - Préparation grand Oral  | Histoire et violence  | ...  |
+| 01/04 | - [S2 Leçon 6](../S1L6/S1L6-0-0.html) <br> - Préparation grand Oral  | Histoire et violence  | Questionnaire correspondance <br> Freud - Einstein  |
+| 25/03 | [S2 Leçon 5](../S1L5/S1L5-0-0.html)  | Histoire et violence  | Dialogue sur Omelas  |
 | 18/03 | - [S2 Leçon 5](../S1L5/S1L5-0-0.html) <br> - Scénettes sur la liberté par les CM1-CM2  | Histoire et violence  | ...  |
 | 11/03 | [S2 Leçon 5](../S1L5/S1L5-0-0.html)  | Histoire et violence  | ...  |
 | 04/03 | - Corrigé du dS <br> - "Ceux qui partent d'Omelas"  | ...  | ...  |
