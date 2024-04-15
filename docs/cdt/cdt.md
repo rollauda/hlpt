@@ -10,6 +10,7 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
+| Vacances de printemps | ---------  | ---------  | ---------  |
 | 15/04 | - [S2 Leçon 7](../S1L7/S1L7-0-0.html) <br> - Préparation grand Oral  | L'humain et ses limites  | ...  |
 | 08/04 | - [S2 Leçon 6](../S1L6/S1L6-0-0.html) <br> - Préparation grand Oral  | Histoire et violence  | ...  |
 | 01/04 | - [S2 Leçon 6](../S1L6/S1L6-0-0.html) <br> - Préparation grand Oral  | Histoire et violence  | Questionnaire correspondance <br> Freud - Einstein  |
