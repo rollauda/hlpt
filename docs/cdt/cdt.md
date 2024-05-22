@@ -10,6 +10,11 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
+|  03/06 |  [S2 Leçon 8](../S1L8/S1L8-0-0.html)  | Création, rupture et continuité  | ...  |
+| 27/05  |  - [S2 Leçon 8](../S1L8/S1L8-0-0.html) <br> - Préparation grand Oral  | Création, rupture et continuité  | ...  |
+|  20/05 |  [S2 Leçon 8](../S1L8/S1L8-0-0.html)  | Création, rupture et continuité  | ...  |
+|  13/05|  - [S2 Leçon 7](../S1L7/S1L7-0-0.html) <br> - Préparation grand Oral  | L'humain et ses limites  | ...  |
+|  06/05 |  - [S2 Leçon 7](../S1L7/S1L7-0-0.html) <br> - Préparation grand Oral  | L'humain et ses limites  | ...  |
 | Vacances de printemps | ---------  | ---------  | ---------  |
 | 15/04 | - [S2 Leçon 7](../S1L7/S1L7-0-0.html) <br> - Préparation grand Oral  | L'humain et ses limites  | ...  |
 | 08/04 | - [S2 Leçon 6](../S1L6/S1L6-0-0.html) <br> - Préparation grand Oral  | Histoire et violence  | ...  |
