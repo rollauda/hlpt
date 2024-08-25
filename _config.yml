@@ -1,9 +1,9 @@
 title: Spé HLP Philo
-description: Documents des leçons de Terminale spécialité HLP philosophie. Rolland Auda, La Condamine, Quito, Équateur.
+description: Documents des leçons de Terminale spécialité HLP philosophie de l'année 2024-2025. Rolland Auda, La Condamine, Quito, Équateur.
 theme: just-the-docs
-baseurl: "/hlpt" # the subpath of your site, e.g. /blog
+baseurl: "/hlpt24" # the subpath of your site, e.g. /blog
 url: https://rollauda.github.io
-repository: rollauda/hlpt # for github-metadata
+repository: rollauda/hlpt24 # for github-metadata
 
 aux_links:
   Accueil-Auda: https://rollauda.github.io

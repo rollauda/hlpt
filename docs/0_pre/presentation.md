@@ -8,6 +8,11 @@ published: true
 # Présentation de la spécialité HLP en Terminale
 
 {: .highlight }
+**Refaire fiche avec sujets 2024**
+
+{: .note-title }
+>Qu'est-ce qu'HLP ?
+>
 >**Associant la philosophie et la littérature, cette spécialité vise à s’interroger sur le
 monde qui nous entoure et à comprendre les enjeux actuels, grâce notamment aux
 grands textes de l’humanité.**
