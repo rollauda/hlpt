@@ -13,4 +13,3 @@ nav_order: 1
 >
 > *Rolland Auda, La Condamine, Quito, 2023-2024*
 
-
